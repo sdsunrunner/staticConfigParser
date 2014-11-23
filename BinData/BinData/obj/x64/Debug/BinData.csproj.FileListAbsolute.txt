@@ -1,0 +1,10 @@
+E:\workspace\trunk\tools\BinData\BinData\bin\x64\Debug\BinData.exe.config
+E:\workspace\trunk\tools\BinData\BinData\obj\x64\Debug\BinData.csproj.ResolveComReference.cache
+E:\workspace\trunk\tools\BinData\BinData\obj\x64\Debug\BinData.Form1.resources
+E:\workspace\trunk\tools\BinData\BinData\obj\x64\Debug\BinData.Properties.Resources.resources
+E:\workspace\trunk\tools\BinData\BinData\obj\x64\Debug\BinData.csproj.GenerateResource.Cache
+E:\workspace\trunk\tools\BinData\BinData\bin\x64\Debug\BinData.exe
+E:\workspace\trunk\tools\BinData\BinData\bin\x64\Debug\BinData.pdb
+E:\workspace\trunk\tools\BinData\BinData\obj\x64\Debug\BinData.exe
+E:\workspace\trunk\tools\BinData\BinData\obj\x64\Debug\BinData.pdb
+E:\workspace\trunk\tools\BinData\BinData\obj\x64\Debug\BinData.csprojResolveAssemblyReference.cache

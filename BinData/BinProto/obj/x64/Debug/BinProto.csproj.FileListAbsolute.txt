@@ -1,0 +1,10 @@
+E:\workspace\trunk\tools\BinData\BinProto\bin\x64\Debug\BinProto.exe.config
+E:\workspace\trunk\tools\BinData\BinProto\bin\x64\Debug\BinProto.exe
+E:\workspace\trunk\tools\BinData\BinProto\bin\x64\Debug\BinProto.pdb
+E:\workspace\trunk\tools\BinData\BinProto\obj\x64\Debug\BinProto.csproj.ResolveComReference.cache
+E:\workspace\trunk\tools\BinData\BinProto\obj\x64\Debug\BinProto.Form1.resources
+E:\workspace\trunk\tools\BinData\BinProto\obj\x64\Debug\BinProto.Properties.Resources.resources
+E:\workspace\trunk\tools\BinData\BinProto\obj\x64\Debug\BinProto.csproj.GenerateResource.Cache
+E:\workspace\trunk\tools\BinData\BinProto\obj\x64\Debug\BinProto.exe
+E:\workspace\trunk\tools\BinData\BinProto\obj\x64\Debug\BinProto.pdb
+E:\workspace\trunk\tools\BinData\BinProto\obj\x64\Debug\BinProto.csprojResolveAssemblyReference.cache
